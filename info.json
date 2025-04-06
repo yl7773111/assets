@@ -1,0 +1,11 @@
+{
+  "name": "liyong",
+  "symbol": "lyb",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "liyong 是一个基于 BNB Chain 的社区代币。",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://bscscan.com/token/0x861c0c5f40e49fe4cd49beb349a5ce293f7a0584",
+  "status": "active",
+  "id": "0x861c0c5f40e49fe4cd49beb349a5ce293f7a0584"
+}
